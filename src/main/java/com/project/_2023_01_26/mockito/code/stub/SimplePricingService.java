@@ -4,6 +4,7 @@ import java.util.Arrays;
 import java.util.Collection;
 import java.util.Comparator;
 
+//todo связать репозиторий с getHighestPricedTrade
 public class SimplePricingService implements PricingService {
 
 	PricingRepository repository;
@@ -20,7 +21,5 @@ public class SimplePricingService implements PricingService {
 		Arrays.sort(tradesArr, comp);
 		return tradesArr[tradesArr.length - 1].price;
 	}
-
 	// [... other overridden methods from PricingService interface...]
-
 }

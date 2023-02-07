@@ -25,18 +25,18 @@
 ++Java Streams: Collectors and Custom Collectors.
 
 *********************Input and Output in Java.*********************
-++Introduction to Input and Output in Java
-++Reading/Writing of bytes.
-++Reading/Writing of strings.
+Introduction to Input and Output in Java
+Reading/Writing of bytes.
+Reading/Writing of strings.
 
 *********************************General and repetition***************************
-++Regular expressions. Basics. Regular Expressions, Java RegExp
-++Class String and its methods. Immutable. StringBuilder, StringBuffer, performance test.
-++Generics,
-++Object.equals
-++Exceptions.
-++Unit testing. JUnit.
-!!LocalDate, LocalDateTime, ZonedDateTime, exercises.
+Regular expressions. Basics. Regular Expressions, Java RegExp
+Class String and its methods. Immutable. StringBuilder, StringBuffer, performance test.
+Generics,
+Object.equals
+Exceptions.
+Unit testing. JUnit.
+!!!LocalDate, LocalDateTime, ZonedDateTime, exercises.
 
 *************************Multithreading*************************************
 General introduction to Java multithreading, main problems.
@@ -48,8 +48,7 @@ Threads Executors.
 
 **************************Spring & Spring Boot*********************************
 Apache Maven, сборка проектов.
-Принципы программирования: DRY, YAGNI, KISS,
-SOLID.
+Принципы программирования: DRY, YAGNI, KISS, SOLID.
 Reflections.
 Annotations.
 Spring Framework: Introduction, Context and Beans
